@@ -5,6 +5,7 @@
 *&
 *&
 *&---------------------------------------------------------------------*
-REPORT ZPRG_TEST1.  "edit in github - 2nd try
+REPORT zprg_test1.  "edit in github - 2nd try
 
-* Change in github
+* First bug correction...
+WRITE 'First bug correction'.
