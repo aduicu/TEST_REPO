@@ -5,4 +5,7 @@
 *&
 *&
 *&---------------------------------------------------------------------*
-REPORT ZPRG_TEST1.
+REPORT zprg_test1.
+
+* New development feature....
+WRITE 'New development feature'.
